@@ -1,0 +1,7 @@
+rootProject.name = 'spring-boot-microservices-pet01'
+include 'order-service'
+include 'inventory-service'
+include 'product-service'
+include 'discovery-service'
+include 'api-gateway'
+include 'notification-service'
